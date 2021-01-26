@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   blogmap:
   - apiVersion: v2
+    appVersion: v0.9
+    created: "2021-01-26T21:15:28.184152466+01:00"
+    description: A map of the greatest trip in history
+    digest: 43c17bf29841f6debadb68dc2ab9e0f2857d8c63bb67e1b27d51c26c3b2692c6
+    name: blogmap
+    type: application
+    urls:
+    - blogmap-0.9.tgz
+    version: "0.9"
+  - apiVersion: v2
     appVersion: v0.8
-    created: "2020-09-13T21:55:32.853280173+02:00"
+    created: "2021-01-26T21:15:28.183274611+01:00"
     description: A map of the greatest trip in history
     digest: ba105250a84581da0551eccec5625b6180acd78562537a4cc3942c86127a9621
     name: blogmap
@@ -13,7 +23,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: v0.7
-    created: "2020-09-13T21:55:32.852692912+02:00"
+    created: "2021-01-26T21:15:28.18274223+01:00"
     description: A map of the greatest trip in history
     digest: 7c05decd3330b23da6a8a8f9b135eddb14bd030613926c3365815e779edd2539
     name: blogmap
@@ -23,7 +33,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: v0.6
-    created: "2020-09-13T21:55:32.852011568+02:00"
+    created: "2021-01-26T21:15:28.182188719+01:00"
     description: A map of the greatest trip in history
     digest: b5bc03219c20b422b61653221079919a3d9fbdd20b4558ed68d7fbf5188e3c9b
     name: blogmap
@@ -34,7 +44,7 @@ entries:
   blogmap-api:
   - apiVersion: v2
     appVersion: 1.0.0-SNAPSHOT
-    created: "2020-09-13T21:55:32.854480788+02:00"
+    created: "2021-01-26T21:15:28.184757728+01:00"
     description: A Helm chart for Kubernetes
     digest: cd1fef11c8b5cb73571bc98b9f3c089284dd2b7c57a609a036209b80a3c346b8
     name: blogmap-api
@@ -42,4 +52,4 @@ entries:
     urls:
     - blogmap-api-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-13T21:55:32.850429762+02:00"
+generated: "2021-01-26T21:15:28.181468183+01:00"
